@@ -8,6 +8,7 @@ h2 {
 p {
   color: #ffffff;
 }
+
 #loginDiv {
   width: 25%;
   height: 45%;
@@ -17,6 +18,11 @@ p {
   position: absolute;
   top: 50%;
   left: 50%;
+  transform: translate(-50%, -50%);
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 3px;
+  padding-bottom: 28px;
 }
 
 #signIn {
