@@ -5,3 +5,24 @@ body {
   top: 50%;
   left: 50%;
 }
+h2 {
+  color: #ffffff;
+}
+p {
+  color: #ffffff;
+}
+.login-prompt {
+  background-color: 757575;
+}
+#signIn {
+  background-color: #fe5c00;
+}
+#createAccount {
+  background-color: #fe5c00;
+}
+#forgotPassword {
+  color: #ffffff;
+}
+#copyright {
+  color: #ffffff;
+}
