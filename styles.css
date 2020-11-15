@@ -1,3 +1,7 @@
 body {
-  background-color: 
+  background-color: #dddddd;
+  /* Center vertically and horizontally */
+  position: absolute;
+  top: 50%;
+  left: 50%;
 }
