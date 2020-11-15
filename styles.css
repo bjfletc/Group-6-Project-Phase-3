@@ -20,10 +20,16 @@ p {
 }
 
 #signIn {
+  font-family: Brush Script MT, cursive;
+  color: #ffffff;
   background-color: #fe5c00;
+
 }
 #createAccount {
+  font-family: Brush Script MT, cursive;
+  color: #ffffff;
   background-color: #fe5c00;
+  font-family: Brush Script MT, cursive;
 }
 #forgotPassword {
   color: #ffffff;
