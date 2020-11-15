@@ -10,6 +10,11 @@ p {
   font-size: 25px;
   color: #ffffff;
 }
+
+.centerText {
+  text-align: center;
+}
+
 #loginDiv {
   width: 25%;
   height: 60%;
